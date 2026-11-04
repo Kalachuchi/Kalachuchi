@@ -1,7 +1,7 @@
 ### Hi, I'm Kala 
 
 Electrical engineer learning to build on the cloud.  
-Shipping serverless and web3 projects to learn AWS the hard way.
+Shipping small web2/web3 projects to learn AWS services
 
 ---
 
