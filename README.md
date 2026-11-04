@@ -8,11 +8,7 @@ AWS re/Start student. Building cloud and web3 side projects to learn by doing.
 
 ---
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalachuchi&theme=tokyo-night&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kalachuchi&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kalachuchi&theme=tokyonight&no-frame=true&margin-w=15&column=4)
 
 ---
 
