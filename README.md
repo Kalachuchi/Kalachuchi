@@ -1,4 +1,4 @@
-### Hi, I'm Rommel 👋
+### Hi, I'm Kala 👋
 
 AWS re/Start student. Building cloud and web3 side projects to learn by doing.
 
