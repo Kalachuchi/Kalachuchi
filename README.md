@@ -1,10 +1,7 @@
 ### Hi, I'm Kala 👋
 
-AWS re/Start student. Building cloud and web3 side projects to learn by doing.
-
-- 🛠 Currently: serverless bots on AWS (Lambda, DynamoDB, EventBridge)
-- 📚 Learning: AWS core services, Python, Linux
-- 🎯 Goal: Cloud Support Associate role
+Electrical engineer learning to build on the cloud.  
+Shipping serverless and web3 projects to learn AWS the hard way.
 
 ---
 
