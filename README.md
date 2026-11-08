@@ -2,6 +2,7 @@
 
 Electrical engineer learning to build on the cloud.  
 Shipping small web2/web3 projects to learn AWS services
+Yes I use AI
 
 ---
 
